@@ -2,14 +2,10 @@
 
 과제 1번
 
-1.
+주어진 문장에 ""추가하기 
+*문장으로 G키를 사용해서 커서 이동 후 W로 단어 커서 이동 i로 삽입 ZZ로 종료
 
 
-![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/94778069/144751381-c3f88320-70aa-4066-9cdb-9646d42d31ac.gif)
-
-
-
-2.
 
 
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/94778069/144751403-072986bc-54d9-4525-b70a-13950e7f0ea2.gif)
