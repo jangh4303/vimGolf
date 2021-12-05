@@ -1,30 +1,42 @@
 # OfenSource Project2
 
 과제 1번
+
 1.
 
-![image](https://user-images.githubusercontent.com/94778069/144749980-7a026d3c-6dff-47db-b2b2-1c76bf64387f.png)
+
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/94778069/144751381-c3f88320-70aa-4066-9cdb-9646d42d31ac.gif)
+
+
 
 2.
 
-![image](https://user-images.githubusercontent.com/94778069/144750015-6a4e4bd0-079a-45d2-b8e7-da059c59ebfd.png)
+
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/94778069/144751403-072986bc-54d9-4525-b70a-13950e7f0ea2.gif)
+
+
 
 과제 2번
 
 
 1.
 
-
-![image](https://user-images.githubusercontent.com/94778069/144750250-08cf3626-d754-49a2-9839-89366ce67ec7.png)
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/94778069/144751433-4c3149b4-73a3-45ce-a0a7-8f126ad75991.gif)
 
 2.
 
 
-![image](https://user-images.githubusercontent.com/94778069/144750276-3c7d4654-09ab-419f-a8a1-29bb76ce72d0.png)
+![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/94778069/144751449-405fa1c3-daf6-455d-9eae-3ec698745ff4.gif)
+
+
 
 과제 3번
 
-![image](https://user-images.githubusercontent.com/94778069/144750434-4a457e99-2e8b-4b8d-8438-8a666c995645.png)
+
+
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/94778069/144751341-d1caf675-cee2-48b7-ac8e-e1180b220fd4.gif)
+
+
 
 과제 4번
 
