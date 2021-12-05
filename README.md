@@ -20,7 +20,7 @@
 
 과제 4번
 
-
-https://user-images.githubusercontent.com/94778069/144750772-80b01828-e4cd-44db-b481-757906cf3e20.mp4
-
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/94778069/144750788-23b2f451-6213-4274-95b1-9ff8e1885984.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/94778069/144750946-e85d019a-caf0-4e3f-87b5-9bc7ca13443d.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/94778069/144751014-409809db-91ad-4dfb-877a-043fcb92ee0e.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/94778069/144751050-e3bbae50-13b1-4ffa-810d-124e8a30c26f.gif)
