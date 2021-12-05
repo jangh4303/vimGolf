@@ -54,4 +54,4 @@ qq 메크로를 사용해서 한줄씩 1씩 숫자 증가 시키고 y앞 abs() �
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/94778069/144751223-e369ebe3-cc46-4283-b347-d946cf139d24.gif)
 
 
-vimgolf를 하면서 많이 어렵다고 느꼈습니다. 어떻게 최고점으로 하는지 많이 궁금 했습니다. 
+* vimgolf를 하면서 많이 어렵다고 느꼈습니다. 어떻게 최고점으로 하는지 많이 궁금 했습니다. 
